@@ -4,7 +4,4 @@ Deployment is going to happen through ansible
 
 Implemented CI and CD piepline
 
-
-second commit
-
-Welcome to CI & CD integration
+New Commits
